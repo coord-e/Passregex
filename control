@@ -1,0 +1,10 @@
+Package: com.coord-e.passregex
+Name: Passregex
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Regex for Passcode
+Maintainer: coord.e
+Author: coord.e
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Passregex.bundle/Icon.png

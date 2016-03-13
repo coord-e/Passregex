@@ -1,0 +1,10 @@
+"ENABLED" = "Enabled";
+"PASSCODE" = "Passcode";
+"YOUR_REAL_PASSCODE" = "Your real passcode";
+"REAL_PASS_MASTER" = "Real passcode is master";
+"REAL_PASS_MASTER_TEXT" = "When \"Real passcode is master\" is enabled, passcode which matches with regex and real passcode can pass. When disabled, real passcode can't pass.";
+"REGULAR_EXPRESSION" = "Regular Expression";
+"RESPRING_TEXT" = "Respring is not required to reflect the setting.";
+"ABOUT" = "About";
+"SOURCE" = "Source";
+"FOLLOW_ME" = "Follow me";

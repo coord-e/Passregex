@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Passregex;
+	cell = PSLinkCell;
+	detail = PassregexListController;
+	icon = Passregex.png;
+	isController = 1;
+	label = Passregex;
+    };
+}

@@ -1,0 +1,10 @@
+"ENABLED" = "有効";
+"PASSCODE" = "パスコード";
+"YOUR_REAL_PASSCODE" = "本来のパスコード";
+"REAL_PASS_MASTER" = "マスターコード";
+"REAL_PASS_MASTER_TEXT" = "「マスターコード」がONの時は、正規表現がマッチしなくても本来のパスコードなら通ります。OFFだと本来のパスコードでも通りません。";
+"REGULAR_EXPRESSION" = "正規表現";
+"RESPRING_TEXT" = "反映にリスプリングは必要ありません。";
+"ABOUT" = "About";
+"SOURCE" = "Source";
+"FOLLOW_ME" = "Follow me";
