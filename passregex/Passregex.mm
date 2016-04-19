@@ -11,11 +11,14 @@
 	}
 	return _specifiers;
 }
+- (void)respring {
+  setuid(0); system("killall SpringBoard");
+}
 - (void)github:(id)specifier {
 	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/coord-e/passregex/"]];
 }
 - (void)twitter:(id)specifier {
-	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://twitter.com/coord_e/"]];
+	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://twitter.com/coord_e_ios/"]];
 }
 @end
 

@@ -23,6 +23,8 @@
 			<string>PASSCODE</string>
 		</dict>
 		<dict>
+			<key>PostNotification</key>
+			<string>com.coord-e.passregex.notify</string>
 			<key>cell</key>
 			<string>PSSecureEditTextCell</string>
 			<key>default</key>
@@ -79,7 +81,15 @@
 			<string>PSGroupCell</string>
 			<key>label</key>
 			<string>RESPRING_TEXT</string>
-		</dict>
+		</dict><!--
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+			<key>action</key>
+			<string>respring</string>
+		</dict>-->
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>

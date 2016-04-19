@@ -2,9 +2,9 @@
 "PASSCODE" = "Passcode";
 "YOUR_REAL_PASSCODE" = "Your real passcode";
 "REAL_PASS_MASTER" = "Real passcode is master";
-"REAL_PASS_MASTER_TEXT" = "When \"Real passcode is master\" is enabled, passcode which matches with regex and real passcode can pass. When disabled, real passcode can't pass.";
+"REAL_PASS_MASTER_TEXT" = "When \"Real passcode is master\" is enabled, passcode which matches regex and real passcode can pass. When disabled, only passcode which matches regex can pass.";
 "REGULAR_EXPRESSION" = "Regular Expression";
-"RESPRING_TEXT" = "Respring is not required to reflect the setting.";
+"RESPRING_TEXT" = "Respring is not required to apply the setting.";
 "ABOUT" = "About";
 "SOURCE" = "Source";
 "FOLLOW_ME" = "Follow me";
